@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 sklearn
-sklearn==0.0.post12
+scikit-learn
